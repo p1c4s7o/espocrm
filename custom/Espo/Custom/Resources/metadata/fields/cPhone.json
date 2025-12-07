@@ -1,0 +1,9 @@
+{
+    "type": "array",
+    "view": "custom:views/fields/c-phone",
+    "isCustom": true,
+    "customization": true,
+    "options": {
+        "default": []
+    }
+}
